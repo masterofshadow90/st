@@ -55,9 +55,9 @@ extern unk16 data_ov000_020ab318;
 extern unk16 data_ov000_020ab31c;
 
 void PlayerActorBase_70::func_ov017_020bbcd8(VecFx32 *param1, UnkAngleStruct param2) {
+    UnkStackStruct_ov017_020c1104 sp28;
     VecFx32 sp10;
     VecFx32 sp1C;
-    UnkStackStruct_ov017_020c1104 sp28;
     s16 temp_r9;
     u8 var_r7;
 
